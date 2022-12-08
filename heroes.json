@@ -13,15 +13,9 @@
       "element": "wind"
     },
     {
-      "id": 3,
-      "name": "Морской герой",
-      "description": "Как аквамен, но не из DC",
-      "element": "water"
-    },
-    {
-      "id": "02a1cefe-8e9d-4fe6-b2df-eab331806126",
-      "name": "gamepass",
-      "description": "32",
+      "id": "65c31597-92af-4074-a72a-63894da5d1c2",
+      "name": "gamepass132",
+      "description": "132",
       "element": "fire"
     }
   ],
