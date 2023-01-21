@@ -13,16 +13,10 @@
       "element": "wind"
     },
     {
-      "id": "6525594c-6971-4779-9da8-d29082ce6721",
-      "name": "312",
-      "description": "132",
+      "id": "cccff7f3-4305-4987-addc-edaa64725414",
+      "name": "Водный герой",
+      "description": "Умею много всего",
       "element": "water"
-    },
-    {
-      "id": "3a13002f-c388-4a9c-bc78-ed0b78074eb7",
-      "name": "123",
-      "description": "231123",
-      "element": "wind"
     }
   ],
   "filters": [
